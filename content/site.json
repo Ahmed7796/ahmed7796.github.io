@@ -1,20 +1,30 @@
 {
-  "name": "Your Name",
-  "headline": "Your role or tagline",
-  "bio": "A short introduction about yourself. Edit this in Pages CMS.",
-  "avatar": "",
-  "email": "",
+  "name": "Ahmed Abdelgadir",
+  "headline": "Software Engineer | Spring Boot | Next.js | ASP.NET",
+  "bio": "Versatile full-stack engineer with lean towards backend development, enterprise applications, and security engineering.",
+  "avatar": "/images/headshot2.png",
+  "email": "ahmedabdelgadir7796@gmail.com",
   "links": [
-    { "label": "GitHub", "url": "https://github.com/Ahmed7796" }
+    {
+      "label": "GitHub",
+      "url": "https://github.com/Ahmed7796"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "www.linkedin.com/in/ahmed-abdelgadir-157667316"
+    }
   ],
   "projects": [
     {
-      "title": "Example project",
-      "description": "What it does and what you built. Replace or delete this in Pages CMS.",
-      "image": "",
-      "url": "",
-      "repo": "",
-      "tags": ["Next.js", "TypeScript"]
+      "title": "Service Request Portal - LCC Siporex",
+      "description": "A system to route service request tickets for IT, and maintenance departments, replacing legacy systems (phone calls, emails, WhatsApp, paper-forms), and ease of monitoring and logging enterprise services, with workflow adherence to company terms. ",
+      "image": "/images/Screenshot_20260521_220113.png",
+      "tags": [
+        "Next.js",
+        "TypeScript",
+        "Spring Boot",
+        "PostgreSQL"
+      ]
     }
   ]
 }
