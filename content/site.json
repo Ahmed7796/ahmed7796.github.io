@@ -1,0 +1,20 @@
+{
+  "name": "Your Name",
+  "headline": "Your role or tagline",
+  "bio": "A short introduction about yourself. Edit this in Pages CMS.",
+  "avatar": "",
+  "email": "",
+  "links": [
+    { "label": "GitHub", "url": "https://github.com/Ahmed7796" }
+  ],
+  "projects": [
+    {
+      "title": "Example project",
+      "description": "What it does and what you built. Replace or delete this in Pages CMS.",
+      "image": "",
+      "url": "",
+      "repo": "",
+      "tags": ["Next.js", "TypeScript"]
+    }
+  ]
+}
