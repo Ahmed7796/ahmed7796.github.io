@@ -1,1 +1,16 @@
 @import "tailwindcss";
+
+@layer base {
+  html {
+    /* Dark scrollbars, form controls, and text selection to match the page. */
+    color-scheme: dark;
+  }
+
+  body {
+    @apply bg-neutral-900 text-neutral-300 antialiased;
+  }
+
+  a {
+    @apply underline decoration-neutral-600 underline-offset-4 transition-colors hover:text-neutral-100 hover:decoration-neutral-300;
+  }
+}
